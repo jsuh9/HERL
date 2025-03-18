@@ -3,7 +3,7 @@ Homomorphically Encrypted Reinforcement Learning
 
 Repository associated with 25 CDC by J Suh, Y Jang, K Teranishi, T Tanaka
 
-Please use conda environment with python=3.9, and specify numpy, matplotlib, jupyter, sympy, tqdm when creating (altenratively, you can use the yaml file to copy the environment)
+Please use conda environment with python=3.9, and specify numpy, matplotlib, jupyter, sympy, tqdm when creating (alternatively, you can use the yaml file to copy the environment)
 
 To generate data and plots in the code, you may run
 "enc_vi_experiment_v1.py".
