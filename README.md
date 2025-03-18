@@ -1,9 +1,7 @@
 # HERL
 Homomorphically Encrypted Reinforcement Learning
 
-Repository associated with CDC Submission
-
-J Suh, Y Jang, K Teranishi, T Tanaka
+Repository associated with 25 CDC by J Suh, Y Jang, K Teranishi, T Tanaka
 
 Please use conda environment with python=3.9, and specify numpy, matplotlib, jupyter, sympy, tqdm when creating.
 
