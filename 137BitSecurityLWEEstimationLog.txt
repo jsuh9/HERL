@@ -1,3 +1,5 @@
+The following parameters under "params" can be used to reproduce the estimated bit security.
+
 >>> LWE.estimate.rough(params)
 usvp                 :: rop: ≈2^109.8, red: ≈2^109.8, δ: 1.004156, β: 376, d: 4055, tag: usvp
 dual_hybrid          :: rop: ≈2^111.0, red: ≈2^111.0, guess: ≈2^88.0, β: 380, p: 3, ζ: 0, t: 0, β': 380, N: ≈2^74.3, m: ≈2^11.0
