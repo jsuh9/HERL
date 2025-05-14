@@ -20,7 +20,7 @@ LWEParameters(n=2048, q=4503599627370496, Xs=D(σ=348986823692397536346112.00, �
 >>> params
 LWEParameters(n=2048, q=4503599627370496, Xs=D(σ=348986823692397536346112.00, μ=604462909807314587353088.00), Xe=D(σ=3.20), m=+Infinity, tag=None)
 
-Another
+Another set; note that estimate.rough(params) yields a more conservatice (lower bit seucurity but faster estimation) estimates.
 
 >>> params = LWE.Parameters(n=n, q=q, Xs=Xs, Xe=Xe)
 >>> LWE.estimate.rough(params)
